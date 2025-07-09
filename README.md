@@ -17,13 +17,12 @@
 ![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=c-sharp&logoColor=FF4444)
 ![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=java&logoColor=FF4444)
 ![Lua](https://img.shields.io/badge/Lua-0a0a0a?style=flat-square&logo=lua&logoColor=FF4444)
-![Assembly](https://img.shields.io/badge/Assembly-0a0a0a?style=flat-square&logo=assemblyscript&logoColor=FF4444)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=FF4444)
 
 ### <span style="font-family: 'Inter', sans-serif; font-weight: 500; color: #888888;">SECONDARY LANGUAGES</span>
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=666666)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=666666)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=666666)
+![HTML](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=666666)
+![CSS](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=666666)
 
 ---
 
