@@ -38,7 +38,6 @@ Game Exploitation</span>
 ### **<span style="color: #FF4444;">INTELLIGENCE GATHERING</span>**
 
 <span style="font-family: 'JetBrains Mono', monospace;">Digital Forensics<br>
-OSINT/CSINT
 </span>
 
 ---
@@ -48,14 +47,10 @@ OSINT/CSINT
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-0a0a0a?style=flat-square&logo=visualstudio&logoColor=FF4444)
 ![IDA Pro](https://custom-icon-badges.demolab.com/badge/IDA%20Pro-0a0a0a?style=flat-square&logo=ida&logoColor=FF4444)
 ![x64dbg](https://custom-icon-badges.demolab.com/badge/x64dbg-0a0a0a?style=flat-square&logo=debug&logoColor=FF4444)
-![dnSpy](https://img.shields.io/badge/dnSpy-0a0a0a?style=flat-square&logo=dotnet&logoColor=FF4444)
-![ILSpy](https://img.shields.io/badge/ILSpy-0a0a0a?style=flat-square&logo=dotnet&logoColor=FF4444)
 ![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-0a0a0a?style=flat-square&logo=engine&logoColor=FF4444)
 ![Binary Ninja](https://custom-icon-badges.demolab.com/badge/Binary%20Ninja-0a0a0a?style=flat-square&logo=binaryninja&logoColor=FF4444)
 ![Scylla](https://custom-icon-badges.demolab.com/badge/Scylla-0a0a0a?style=flat-square&logoColor=FF4444)
 ![Process Hacker](https://custom-icon-badges.demolab.com/badge/Process%20Hacker-0a0a0a?style=flat-square&logo=processhacker&logoColor=FF4444)
-![de4dot](https://custom-icon-badges.demolab.com/badge/de4dot-0a0a0a?style=flat-square&logoColor=FF4444)
-![Fiddler](https://custom-icon-badges.demolab.com/badge/Fiddler-0a0a0a?style=flat-square&logo=fiddler&logoColor=FF4444)
 ![HTTP Debugger Pro](https://custom-icon-badges.demolab.com/badge/HTTP%20Debugger%20Pro-0a0a0a?style=flat-square&logoColor=FF4444)
 ![Wireshark](https://custom-icon-badges.demolab.com/badge/Wireshark-0a0a0a?style=flat-square&logo=wireshark&logoColor=FF4444)
 ![HxD](https://custom-icon-badges.demolab.com/badge/HxD-0a0a0a?style=flat-square&logoColor=FF4444)
