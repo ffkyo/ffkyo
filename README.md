@@ -61,7 +61,7 @@ Game Exploitation</span>
 
 ## <span style="font-family: 'Inter', sans-serif; font-weight: 600; letter-spacing: 1px;">GITHUB ANALYTICS</span>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ffkyo"&theme=dark&hide_border=true&background=0d1117&stroke=FF4444&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=FF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://github-readme-streak stats.herokuapp.com/user=ffkyo&theme=dark&hide_border=true&background=0d1117&stroke=FF4444&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=FF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 ---
 
