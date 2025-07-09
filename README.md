@@ -8,7 +8,7 @@
 
 ## <span style="font-family: 'Inter', 'Segoe UI', sans-serif; font-weight: 600; letter-spacing: 1px;">ABOUT ME</span>
 
-**17-year-old developer** who's been coding since I was 8. I specialize in **low-level programming**, **reverse engineering**, and **system manipulation** techniques. I also have a strong interest in **cybersecurity intelligence gathering** and **digital forensics**.
+**14-year-old developer**. I specialize in **low-level programming**, **reverse engineering**, and **system manipulation** techniques. I also have a strong interest in **cybersecurity intelligence gathering** and **digital forensics**.
 
 ---
 
